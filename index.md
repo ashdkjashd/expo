@@ -1,5 +1,3 @@
-<!--- revision: afd63a7f2e56ab917c0b9f28b1cf1505cc62eedb -->
-
 ---
 title: Getting to know Expo
 ---
