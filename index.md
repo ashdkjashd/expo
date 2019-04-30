@@ -1,28 +1,30 @@
+<!--- EN-Revision: 351eb1d95f4a2b0288833bb88f64d6ad47f5765b -->
+
 ---
-title: Getting to know Expo
+title: Знакомство с Expo
 ---
 
-## Introduction
+## Вступление
 
-This is the documentation for [Expo](http://expo.io). Expo is a set of tools, libraries and services you can use to build native iOS and Android apps faster than ever before.
+Добро пожаловать в документацию для [Expo](http://expo.io) - набор инструментов, библиотек и сервисов, которые вы можете использовать для создания собственных приложений для iOS и Android быстрее, чем когда-либо прежде!
 
-There are two ways to build a project with Expo, we call these workflows: you can use the "managed" workflow or the "bare" workflow. With the "managed" workflow, you only write JavaScript and lean on the [Expo SDK](sdk/overview/) to give you access to your device capabilities and the Expo services to handle the heavy lifting of building your app binary and uploading it to the store, all without you touching Xcode or Android Studio. With the "bare" workflow, we also speed up your development with the [Expo SDK](sdk/overview/) and React Native, and you have full control over your iOS and Android projects.
+Существует два способа создания проекта с помощью Expo, мы называем их рабочими процессами: вы можете использовать "управляемый" рабочий процесс или "пустой" рабочий процесс. Благодаря "управляемому" рабочему процессу вы пишете только JavaScript и опираетесь на [Expo SDK](sdk/overview/), чтобы предоставить вам доступ к возможностям вашего устройства и сервисам Expo, чтобы справиться с тяжелой работой по созданию бинарного файла вашего приложения и загрузке его в магазин, и все это без вашего участия. Xcode или Android Studio. Благодаря "голому" рабочему процессу мы также ускорим вашу разработку с помощью [Expo SDK](sdk/overview/) и React Native, и вы получите полный контроль над проектами iOS и Android.
 
-## More about the Expo SDK
+## Подробнее об Expo SDK
 
-The Expo SDK is a set of libraries written natively for each platform which provides access to the device's system functionality (things like the camera, push notifications, contacts, local storage, and other hardware and operating system APIs) from JavaScript. The SDK is designed to smooth out differences in platforms as much as possible, which makes your project very portable because it can run in any native environment containing the Expo SDK.
+Expo SDK - это набор библиотек, написанных изначально для каждой платформы, которые предоставляют доступ к системным функциям устройства (таким как камера, push-уведомления, контакты, локальное хранилище и другие API-интерфейсы аппаратного обеспечения и операционной системы) из JavaScript. SDK предназначен для максимально возможного сглаживания различий в платформах, что делает ваш проект очень переносимым, поскольку он может работать в любой среде, содержащей Expo SDK.
 
-Expo also provides UI components to handle a variety of use-cases that almost all apps will cover but are not built into React Native core, e.g. icons, blur views, and more.
+Expo также предоставляет компоненты пользовательского интерфейса для обработки различных вариантов использования, которые охватывают почти все приложения, но не встроены в ядро React Native, например значки, размытые виды и многое другое.
 
-## Considering using Expo?
+## Решили использовать Expo?
 
-- If you'd like an overview of what Expo offers, you might want to familiarize yourself with the [lifecycle of an Expo project](introduction/project-lifecycle/), which describes how you go from square one to a production iOS and Android app.
-- For further explanation, it's also good to check out the [Frequently Asked Questions](introduction/faq/).
+- Если вам нужен обзор того, что предлагает Expo, возможно, вы захотите ознакомиться с [жизненным циклом проекта Expo](introduction/project-lifecycle/), который описывает, как вы переходите от первого шага к производственному приложению для iOS и Android.
+- Для дальнейшего объяснения также полезно проверить [Часто задаваемые вопросы](introduction/faq/).
 
-## Ready to get started?
+## Готовы начать?
 
-- Head over to [Installation](introduction/installation/) to grab our tools and have a look around.
-- Make your first project by following the [Up and Running](workflow/up-and-running/) guide.
-- If you're not already familiar with React and React Native, you can bootstrap your knowledge with [React Native Express](http://www.reactnativeexpress.com/).
-- For hands-on React Native projects from beginner to advanced, check out [Fullstack React Native](https://www.fullstackreact.com/react-native/), a (paid) book by the author of React Native Express.
-- Join our [Community](introduction/community/) and let us know what you're working on!
+- Перейдите к [Установке](introduction/installation/), чтобы взять наши инструменты и осмотреться.
+- Сделайте свой первый проект, следуя руководству [Up and Running](workflow/up-and-running/).
+- Если вы еще не знакомы с React и React Native, вы можете загрузить свои знания с помощью [React Native Express](http://www.reactnativeexpress.com/).
+- Для ознакомления с практическими проектами React Native от начинающего до продвинутого читайте книгу [Fullstack React Native](https://www.fullstackreact.com/react-native/) (платную), написанную автором React Native Express.
+- Присоединяйтесь к нашему [сообществу](introduction/community/) и дайте нам знать, над чем вы работаете!
