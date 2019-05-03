@@ -19,8 +19,8 @@ Expo также предоставляет компоненты пользова
 
 ## Готовы начать?
 
-- Перейдите к [Установке](introduction/installation/), чтобы взять наши инструменты и осмотреться.
+- Перейдите к [Установке](introduction/installation.md), чтобы взять наши инструменты и осмотреться.
 - Сделайте свой первый проект, следуя руководству [Up and Running](workflow/up-and-running/).
 - Если вы еще не знакомы с React и React Native, вы можете загрузить свои знания с помощью [React Native Express](http://www.reactnativeexpress.com/).
 - Для ознакомления с практическими проектами React Native от начинающего до продвинутого читайте книгу [Fullstack React Native](https://www.fullstackreact.com/react-native/) (платную), написанную автором React Native Express.
-- Присоединяйтесь к нашему [сообществу](introduction/community/) и дайте нам знать, над чем вы работаете!
+- Присоединяйтесь к нашему [сообществу](introduction/community.md) и дайте нам знать, над чем вы работаете!
