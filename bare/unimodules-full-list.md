@@ -1,4 +1,4 @@
-<!--- EN-Revision: 9cca37eb755c609396b1964c56ec87c89bf54138 -->
+<!--- EN-Revision: b6bbf0253240c71299d1a9e637e564056ab2663f -->
 
 Ниже приведен краткий справочник по всем модулям Bare Workflow.
 
@@ -72,6 +72,9 @@ import * as Font from 'expo-font';
 
 // GL View
 import { GLView } from 'expo-gl';
+
+// Google Sign In
+import * as GoogleSignIn from 'expo-google-sign-in';
 
 // Gyroscope
 import { Gyroscope } from 'expo-sensors';
